@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094210883459",
+    "project_id": "myfirstchat-737cc",
+    "storage_bucket": "myfirstchat-737cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094210883459:android:4669ac27f3469b4d3670b6",
+        "android_client_info": {
+          "package_name": "com.example.hometask_60"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094210883459-t4v2vv6nujcd4gf75isp2jubgghrccuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Hv_8n4XknHvY5_-1TGBs-D5kZESrYk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094210883459-t4v2vv6nujcd4gf75isp2jubgghrccuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
